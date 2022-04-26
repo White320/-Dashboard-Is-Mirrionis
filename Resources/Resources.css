@@ -1,0 +1,11 @@
+.headiv{
+    border: 1px outset black;
+    text-align: center;
+}
+.boxhead{
+    margin: 1px;
+    width: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
